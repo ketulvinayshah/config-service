@@ -8,4 +8,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ketulvinayshah/config-repo
+          uri: https://github.com/ketulvinayshah/config-repo.git
